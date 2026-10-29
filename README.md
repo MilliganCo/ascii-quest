@@ -1,5 +1,7 @@
 # ASCII Quest
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 ## Описание
 
 Игровой frontend-прототип на TypeScript, Vite и Pixi.js с изометрической подачей, локальным сохранением прогресса и базовыми системами перемещения, боя и поведения врагов.
@@ -31,3 +33,8 @@
 ## Статус
 
 WIP. Архитектура уже напоминает игровой клиент с отдельными подсистемами, но проект всё ещё находится на стадии прототипа и просит больше контента, интерфейсной полировки и расширения механик.
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
